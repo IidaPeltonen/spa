@@ -1,0 +1,41 @@
+.container {
+    margin-top: 50px;
+}
+
+footer .container {
+    margin-top: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    border-top: 2px solid #f5f5f5;
+    text-align: center;
+}
+
+#header {
+    background-image: url(./banner.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
+
+main {
+    background-color: silver;
+    font-size: larger;
+}
+
+.navbar {
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-size: larger;
+}
+
+.navbar #valkoinen {
+    color: white;
+}
+
